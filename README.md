@@ -6,7 +6,7 @@
 
 
 # Overview of the analysis: 
-Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. We employed different techniques to train and evaluate models with unbalanced classes. We built imbalanced-learn and scikit-learn libaries to evaluate models using resampling. Our goal was to determine which sampling is the best to predict credit risk.
+Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. We employed different techniques to train and evaluate models with unbalanced classes. We built imbalanced-learn and scikit-learn libraries to evaluate models using resampling. Our goal was to determine which sampling is the best to predict credit risk.
 
 
 # Results: 
