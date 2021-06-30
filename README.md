@@ -10,8 +10,8 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 
 # Results: 
-As shown below our Random Sample has a Balanced Accuracy Score: 65.03%. with our Precision High Risk: 0.01 and  Low Risk: 1.00 with  Recall Score Difference: 0.08%..
-Our Random Sampler represents our Lowest percentages.
+As shown below, our Random Sample has a Balanced Accuracy Score: 65.03%. With our Precision High Risk: 0.01 and  Low Risk: 1.00 with  Recall Score Difference: 0.08%..
+our Random Sampler represents our Lowest percentages.
 
 
 
@@ -24,7 +24,7 @@ Our Random Sampler represents our Lowest percentages.
 
 
 
-In comparison to to the lowest the EasyEnemble Classifier had a Balanced Accuracy Score: 93.17% and Precision Score High Risk: at 0.09 the Precision Score Low Risk: at 1.00
+In comparison to to the lowest the "EasyEnemble Classifier" had a Balanced Accuracy Score: 93.17% and Precision Score High Risk: at 0.09 the Precision Score Low Risk: at 1.00
 and the Recall Score Difference: 0.02% . This represents the best credit risk and would be best suited to fit our needs. 
 
 ![](Images/Easy_Classifier.png)
